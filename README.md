@@ -13,6 +13,10 @@ Team Project Team Kinggaiz
 마리오네트 인형을 이용하여 인형극을 만들어 아이들의 교육에 도움이 될 수있도록 하는 프로젝트 
 <h3>시나리오 제작툴</h3>
 Drag & Drop으로 간단히 동작과, 소리, 배경음악을 정의하여 키오컨트롤러[인형을 조작하는 로봇] 으로 동작데이터와 소리파일을 전송하여 인형을 움직이게 한다.
+<h3>콘텐츠공유</h3>
+웹사이트에서 유저는 총 3가지로 나뉘는데 관리자, 제작자, 소비자 로 나뉜다.
+관리자는 시스템을 관리하는 유저로써 제작된 시나리오의 검토를 맡고, 제작자는 시나리오를 제작하여 콘텐츠를 등록한다.
+소비자는 등록된 콘텐츠를 다운로드 받아 콘텐츠를 감상한다.
 
 # CAPTURE
 <img src="https://ttlhca-dm2305.files.1drv.com/y4mTnha6mNYqD0EEQWwrPN7JJbFv8Pq89wSLElzyAlmGzRvmSRJ78rjh9QAGXBJe6uED26j0jxpnKkUoXbTmSi4ycHRnbipsCWiLyKpVpPN8sqDTnYy6hczKakAD3DvwT-ot5IQ9bkE-7KcV89qv_yf3M6EL2RB9wPSPAPV5CJMzs8eWEd6huZ1D0RuRjWb22EXDb-Yk6WsqE_tZW4bPXVylA?width=1883&height=912&cropmode=none" width="1883" height="912" />
